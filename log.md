@@ -1,30 +1,111 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+## Log
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 1: September 25, 2017 
+**Today's Progess**:
+- Started working on a node.js app. Set up the project.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** 
+- [Flat Login Template](https://github.com/mimukit/html5-templates-collection#1-flat-login-template "Flat Login Template")
 
-**Link to work:** [Calculator App](http://www.example.com)
+**New thing(s) learned:** 
+- Node (npm, understanding and installing express)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+------------
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+### Day 2: September 26, 2017 
+**Today's Progess**:
+- Worked on the express portion of my app. It's coming along quite nicely and my understanding is perfect.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Link to work:** 
+- [Flat Login Template](https://github.com/mimukit/html5-templates-collection#1-flat-login-template "Flat Login Template")
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**New thing(s) learned:** 
+- Setting up express for use in a node.js app
 
+------------
 
-### Day 1: June 27, Monday
+### Day 3: September 27, 2017 
+**Today's Progess**:
+- Continued working on the express portion of my app. Started working on the API requests with node.
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Link to work:** 
+- [Flat Login Template](https://github.com/mimukit/html5-templates-collection#1-flat-login-template "Flat Login Template")
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**New thing(s) learned:** 
+- APIs
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+------------
+
+### Day 4: September 28, 2017 
+**Today's Progess**:
+- Continued working on my node app. Completed all the routes. Added bootstrap. started work on the styling.
+
+**Link to work:** 
+- [Flat Login Template](https://github.com/mimukit/html5-templates-collection#1-flat-login-template "Flat Login Template")
+
+**New thing(s) learned:** 
+- Routing 
+
+------------
+
+### Day 5: September 29, 2017 
+**Today's Progess**:
+- Continued working on my node app. Completed styling. started work on the database.
+
+**Link to work:** 
+- [Flat Login Template](https://github.com/mimukit/html5-templates-collection#1-flat-login-template "Flat Login Template")
+
+**New thing(s) learned:** 
+- mongodb(setting up a mongodb database and connecting to node) 
+
+------------
+
+### Day 6: September 30, 2017 
+**Today's Progess**:
+- Continued working on the database for my node app.
+
+**Link to work:** 
+- [Flat Login Template](https://github.com/mimukit/html5-templates-collection#1-flat-login-template "Flat Login Template")
+
+**New thing(s) learned:** 
+- mongodb(CRUD using mongodb) 
+
+------------
+
+### Day 7: October 1, 2017 
+**Today's Progess**:
+- Started YDKJS Up & Going. Mostly review.
+
+**Link to work:** 
+- [Flat Login Template](https://github.com/mimukit/html5-templates-collection#1-flat-login-template "Flat Login Template")
+
+**New thing(s) learned:** 
+- None
+
+------------
+
+### Day 8: October 2, 2017 
+**Today's Progess**:
+- Finished YDKJS Up & Going. It was mostly review again. Added mongoose to the database for my node app.
+
+**Link to work:** 
+- [Flat Login Template](https://github.com/mimukit/html5-templates-collection#1-flat-login-template "Flat Login Template")
+
+**New thing(s) learned:** 
+- mongoose
+
+------------
+
+### Day 9: October 3, 2017 
+**Today's Progess**:
+- Started YDKJS Scopes & Closures. Worked on routes and authentication for my app
+
+**Link to work:** 
+- [Flat Login Template](https://github.com/mimukit/html5-templates-collection#1-flat-login-template "Flat Login Template")
+
+**New thing(s) learned:** 
+- Authentication (PassportJs)
+
+------------
