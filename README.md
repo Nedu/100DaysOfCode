@@ -1,4 +1,4 @@
-# #100DaysOfCode Challenge.
+# #100DaysOfCode Challenge
 
 **Main target:** ***I will code for at least an hour every day for the next 100 days.***
 
@@ -19,8 +19,7 @@
 | No  |  Project Title  |  Completed On |
 | :------------: | ------------ | :------------: |
 | 1  | Scruting Blogging Platform | [N/A]()  |
-
-
+| 2  | Book Review App | [N/A]()  |
 
 
 ## Contents
