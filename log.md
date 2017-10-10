@@ -169,3 +169,27 @@
 - Semantic UI
 
 ------------
+
+### Day 15: October 9, 2017 
+**Today's Progess**:
+- Added authorization to my app. Added edit, update & delete routes
+
+**Link to work:** 
+- [Book Review App]()
+
+**New thing(s) learned:** 
+- Authorization
+------------
+
+### Day 16: October 10, 2017 
+**Today's Progess**:
+- Continued working on authorization for my app. Did a little bit of refactoring 
+
+**Link to work:** 
+- [Book Review App]()
+- [Blogging Platform App]()
+
+**New thing(s) learned:** 
+- None
+
+------------
