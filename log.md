@@ -193,3 +193,15 @@
 - None
 
 ------------
+
+### Day 17: October 11, 2017 
+**Today's Progess**:
+- Added flash messages to my app. 
+
+**Link to work:** 
+- [Book Review App]()
+
+**New thing(s) learned:** 
+- Flash messaging
+
+------------
