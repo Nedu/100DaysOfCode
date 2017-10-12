@@ -205,3 +205,15 @@
 - Flash messaging
 
 ------------
+
+### Day 18: October 12, 2017 
+**Today's Progess**:
+- Revamped the landing page for my app. 
+
+**Link to work:** 
+- [Book Review App]()
+
+**New thing(s) learned:** 
+- None
+
+------------
