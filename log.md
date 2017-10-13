@@ -217,3 +217,15 @@
 - None
 
 ------------
+
+### Day 19: October 13, 2017 
+**Today's Progess**:
+- Started working on refactoring my app.
+
+**Link to work:** 
+- [Book Review App]()
+
+**New thing(s) learned:** 
+- None
+
+------------
