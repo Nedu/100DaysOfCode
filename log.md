@@ -229,3 +229,15 @@
 - None
 
 ------------
+
+### Day 20: October 14, 2017 
+**Today's Progess**:
+- Learned about deploying through heroku
+
+**Link to work:** 
+- [Book Review App]()
+
+**New thing(s) learned:** 
+- None
+
+------------
