@@ -241,3 +241,15 @@
 - None
 
 ------------
+
+### Day 21: October 15, 2017 
+**Today's Progess**:
+- Went back to my blog app and added more features(comments, flash message, authorization and authentication)
+
+**Link to work:** 
+- [Blogging Platform App]()
+
+**New thing(s) learned:** 
+- None
+
+------------
