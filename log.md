@@ -253,3 +253,27 @@
 - None
 
 ------------
+
+### Day 22: October 16, 2017 
+**Today's Progess**:
+- Continued working on my blog app and deployed the first version to heroku.
+
+**Link to work:** 
+- [Blogging Platform App]()
+
+**New thing(s) learned:** 
+- mLab
+
+------------
+
+### Day 23: October 17, 2017 
+**Today's Progess**:
+- Worked on a programming challenge for an interview
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- mLab
+
+------------
