@@ -274,6 +274,30 @@
 - N/A
 
 **New thing(s) learned:** 
-- mLab
+- None
+
+------------
+
+### Day 23: October 18, 2017 
+**Today's Progess**:
+- Started working through CS50
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- Scratch
+
+------------
+
+### Day 24: October 19, 2017 
+**Today's Progess**:
+- continued working through CS50. Worked with scratch
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- Scratch
 
 ------------
