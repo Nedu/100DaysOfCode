@@ -278,7 +278,7 @@
 
 ------------
 
-### Day 23: October 18, 2017 
+### Day 24: October 18, 2017 
 **Today's Progess**:
 - Started working through CS50
 
@@ -290,7 +290,7 @@
 
 ------------
 
-### Day 24: October 19, 2017 
+### Day 25: October 19, 2017 
 **Today's Progess**:
 - continued working through CS50. Worked with scratch
 
@@ -299,5 +299,17 @@
 
 **New thing(s) learned:** 
 - Scratch
+
+------------
+
+### Day 26: October 20, 2017 
+**Today's Progess**:
+- Worked through the lambda school pre course
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- ES6 Template Literals
 
 ------------
