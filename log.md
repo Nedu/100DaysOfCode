@@ -313,3 +313,27 @@
 - ES6 Template Literals
 
 ------------
+
+### Day 27: October 21, 2017 
+**Today's Progess**:
+- Worked through the lambda school pre course
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- None
+
+------------
+
+### Day 26: October 27, 2017 
+**Today's Progess**:
+- Worked through the lambda school pre course
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- None
+
+------------
