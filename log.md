@@ -326,9 +326,21 @@
 
 ------------
 
-### Day 26: October 27, 2017 
+### Day 26: October 22, 2017 
 **Today's Progess**:
 - Worked through the lambda school pre course
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- None
+
+------------
+
+### Day 27: October 23, 2017 
+**Today's Progess**:
+- Worked through the lambda school pre course and worked on pset 0 for cs50.
 
 **Link to work:** 
 - N/A
