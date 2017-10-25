@@ -326,7 +326,7 @@
 
 ------------
 
-### Day 26: October 22, 2017 
+### Day 28: October 22, 2017 
 **Today's Progess**:
 - Worked through the lambda school pre course
 
@@ -338,9 +338,33 @@
 
 ------------
 
-### Day 27: October 23, 2017 
+### Day 29: October 23, 2017 
 **Today's Progess**:
 - Worked through the lambda school pre course and worked on pset 0 for cs50.
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- None
+
+------------
+
+### Day 30: October 24, 2017 
+**Today's Progess**:
+- Continued working through CS50.
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- None
+
+------------
+
+### Day 31: October 25, 2017 
+**Today's Progess**:
+- Worked on my blog app. Added comments capability.
 
 **Link to work:** 
 - N/A
