@@ -373,3 +373,39 @@
 - None
 
 ------------
+
+### Day 32: October 26, 2017 
+**Today's Progess**:
+- Worked on an interactive resume using javascript & jquery
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- None
+
+------------
+
+### Day 33: October 27, 2017 
+**Today's Progess**:
+- Finished the interactive resume I was working on
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- CSS Grid
+
+------------
+
+### Day 34: October 28, 2017 
+**Today's Progess**:
+- Continued working on my blog app
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- None
+
+------------
