@@ -409,3 +409,15 @@
 - None
 
 ------------
+
+### Day 35: October 29, 2017 
+**Today's Progess**:
+- Continued working on my blog app
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- None
+
+------------
