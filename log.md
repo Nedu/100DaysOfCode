@@ -421,3 +421,28 @@
 - None
 
 ------------
+
+### Day 36: October 30, 2017 
+**Today's Progess**:
+- Finished pset 0 and week 0 of cs50.
+
+**Link to work:** 
+- [Space Game in Scratch](https://scratch.mit.edu/projects/180631242/)
+
+**New thing(s) learned:** 
+- None
+
+------------
+
+### Day 37: October 31, 2017 
+**Today's Progess**:
+- Worked through week 1 of cs50.
+
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- C (Basic Syntax)
+
+------------
