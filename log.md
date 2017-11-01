@@ -283,7 +283,7 @@
 - Started working through CS50
 
 **Link to work:** 
-- N/A
+- [Space Game in Scratch](https://scratch.mit.edu/projects/180631242/)
 
 **New thing(s) learned:** 
 - Scratch
@@ -295,7 +295,7 @@
 - continued working through CS50. Worked with scratch
 
 **Link to work:** 
-- N/A
+- [Space Game in Scratch](https://scratch.mit.edu/projects/180631242/)
 
 **New thing(s) learned:** 
 - Scratch
@@ -343,7 +343,7 @@
 - Worked through the lambda school pre course and worked on pset 0 for cs50.
 
 **Link to work:** 
-- N/A
+- [Space Game in Scratch](https://scratch.mit.edu/projects/180631242/)
 
 **New thing(s) learned:** 
 - None
@@ -355,7 +355,7 @@
 - Continued working through CS50.
 
 **Link to work:** 
-- N/A
+- [Space Game in Scratch](https://scratch.mit.edu/projects/180631242/)
 
 **New thing(s) learned:** 
 - None
@@ -437,6 +437,19 @@
 ### Day 37: October 31, 2017 
 **Today's Progess**:
 - Worked through week 1 of cs50.
+
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- C (Basic Syntax)
+
+------------
+
+### Day 38: November 1, 2017 
+**Today's Progess**:
+- Finished all videos of week 1 of cs50. Started working on pset1.
 
 
 **Link to work:** 
