@@ -459,3 +459,42 @@
 - C (Basic Syntax)
 
 ------------
+
+### Day 39: November 2, 2017 
+**Today's Progess**:
+- Continued working through pset1 of cs50.
+
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- C (Basic Syntax)
+
+------------
+
+### Day 40: November 3, 2017 
+**Today's Progess**:
+-  Worked on a simple node app.
+
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- None
+
+------------
+
+### Day 41: November 5, 2017 
+**Today's Progess**:
+-  Completed and deployed the node app.
+
+
+**Link to work:** 
+- [Simple node app](https://alcstudents.herokuapp.com/)
+
+**New thing(s) learned:** 
+- None
+
+------------
