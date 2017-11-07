@@ -498,3 +498,16 @@
 - None
 
 ------------
+
+### Day 42: November 6, 2017 
+**Today's Progess**:
+-  completed pset1 of cs50. started working through week 2
+
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- None
+
+------------
