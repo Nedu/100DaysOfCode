@@ -475,7 +475,7 @@
 
 ### Day 40: November 3, 2017 
 **Today's Progess**:
--  Worked on a simple node app.
+- Worked on a simple node app.
 
 
 **Link to work:** 
@@ -488,7 +488,7 @@
 
 ### Day 41: November 5, 2017 
 **Today's Progess**:
--  Completed and deployed the node app.
+- Completed and deployed the node app.
 
 
 **Link to work:** 
@@ -501,7 +501,20 @@
 
 ### Day 42: November 6, 2017 
 **Today's Progess**:
--  completed pset1 of cs50. started working through week 2
+- Completed pset1 of cs50. Started working through week 2
+
+
+**Link to work:** 
+- N/A
+
+**New thing(s) learned:** 
+- None
+
+------------
+
+### Day 43: November 7, 2017 
+**Today's Progess**:
+- Continued working through week 2 of cs50.
 
 
 **Link to work:** 
